@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604873641433",
+    "project_id": "castrinnotifica",
+    "storage_bucket": "castrinnotifica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604873641433:android:1bf6d3229a70a21bed1dc8",
+        "android_client_info": {
+          "package_name": "br.com.castrin.castrin_notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604873641433-bdt7kfdti8401oudovq8ttqcuoh5hd0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTs2Z2WnLmJli23_Kf54A-8s_zCG3Umzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604873641433-bdt7kfdti8401oudovq8ttqcuoh5hd0n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604873641433-fkkcgppepa18dvqr7lt8subei3gacse1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.castrin.castrin-notify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
